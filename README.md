@@ -1,2 +1,5 @@
 # KI3041-PMD
-Ngerjain Ujian PMD intinya mah
+
+Nama     : Arrafi Randyansyah Faizi
+NIM      : 10522013
+e-mail   : 10522013@mahasiswa.itb.ac.id
